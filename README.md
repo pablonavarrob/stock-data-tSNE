@@ -4,4 +4,4 @@ Analysis of log returns from stock market data using Python and dimensionality r
 
 ## t-SNE on the 5-day average returns for S&P500 companies
 
-<img src="">
+<img src="https://github.com/pablonavarrob/stock-data-tSNE/blob/main/tsne_5_days.png">
